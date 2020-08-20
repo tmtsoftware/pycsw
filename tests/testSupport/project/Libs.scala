@@ -20,5 +20,6 @@ object CSW {
   val Version = "0.1.0-SNAPSHOT"
 
   val `csw-framework` = "com.github.tmtsoftware.csw" %% "csw-framework" % Version
+  val `csw-logging-client` = "com.github.tmtsoftware.csw" %% "csw-logging-client" % Version
   val `csw-testkit`   = "com.github.tmtsoftware.csw" %% "csw-testkit" % Version
 }
